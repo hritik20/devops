@@ -23,6 +23,10 @@ git checkout main
  -- this is to add the file at staging area where file is basically ready for commit
  git commit -m "comments"
   -- this is to finally commit the file so git can track the version of your file along with hash SHA1 value which uniqually defines each commit
+
+  git diff <hash1>..<hash2>
+  -- to check the difference between previous commit and later commit
+  
   
  
  
