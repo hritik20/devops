@@ -1,4 +1,4 @@
 print("hello")
 while True:
-    print("hello")
+    print("he")
     
